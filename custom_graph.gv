@@ -1,0 +1,10 @@
+// Common Graph
+digraph {
+	foo [label=foo]
+	foo -> bar [label=3]
+	foo -> foobar [label=5]
+	bar [label=bar]
+	foobar [label=foobar]
+	new_vertex [label=new_vertex]
+	new_vertex -> bar [label=4]
+}

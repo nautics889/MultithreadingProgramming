@@ -1,0 +1,4 @@
+// Common Graph
+digraph {
+	Hello -> World
+}
